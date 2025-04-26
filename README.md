@@ -6,16 +6,16 @@
 - 🍿 В свободное время обожаю ходить в кино и заниматься спортом
 
 <h3 align="left">Для связи со мной:</h3>
-<!-- <p align="left">-->
-<div style="display: flex; gap: 8px; align-items: center;">
+<p align="left">
+<!-- <div style="display: flex; gap: 8px; align-items: center;"> -->
   <a href="https://t.me/Rekavgreka" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="35" width="45" style="max-width: 100%;"/>
-  </a>
+  </a> &nbsp;
   <a href="mailto:m.alexander.kozlov@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="max-width: 100%;" />
   </a>
-<!--  </p>-->
-</div>
+</p>
+<!-- </div>-->
 
 <br>
 
