@@ -19,7 +19,7 @@
 <!-- </div>-->
 
 ## Сводная статистика
-<div style="display: flex; gap: 5px; align-items: flex-start; !important">
+<div style="display: flex; gap: 5px; align-items: flex-start;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=alexkozlovvv&show_icons=true&theme=noctis_minimus&border_radius=8&locale=ru&hide_title=true&rank_icon=github&include_all_commits=true&random=123"
@@ -41,7 +41,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки" />
   </picture>
 </div>
 
