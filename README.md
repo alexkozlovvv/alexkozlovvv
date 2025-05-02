@@ -1,6 +1,6 @@
 
 <!-- <h1>Привет 👋 </h1> -->
-<h3 style="font-size: 2rem; font-weight: bold;">Привет 👋</h3>
+<h1 style="font-size: 4rem; font-weight: bold;">Привет 👋</h1>
 
 <h2>Меня зовут Александр Козлов, я С/С++ программист и в настоящее время я занимаюсь embedeed разработкой</h2>
 
@@ -41,7 +41,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки" />
   </picture>
 </div>
 
