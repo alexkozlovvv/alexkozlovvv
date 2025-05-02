@@ -34,14 +34,14 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&theme=noctis_minimus&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки&card_width=360"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&theme=noctis_minimus&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки&card_width=380"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки&card_width=360"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки&card_width=380"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки&card_width=360" />
+    <img align="top" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkozlovvv&show_icons=true&border_radius=8&locale=en&include_all_commits=true&random=123&layout=compact&custom_title=Используемые%20языки&card_width=380" />
   </picture>
 </div>
 
