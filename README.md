@@ -1,8 +1,8 @@
 
 <!-- <h1>Привет 👋 </h1> -->
-<h1 style="font-size: 4rem; font-weight: bold;">Привет 👋</h1>
-
-<h2>Меня зовут Александр Козлов, я С/С++ программист и в настоящее время я занимаюсь embedeed разработкой</h2>
+<h1> Привет 👋 
+<br><br><span style="font-size: 0.8em;">
+Меня зовут Александр Козлов, я С/С++ программист и в настоящее время я занимаюсь embedeed разработкой</span></h1>
 
 - 🌱 Сейчас я изучаю операционные системы и алгоритмы
 - ⚡ Интересный факт: по образованию физик-ядерщик
@@ -19,7 +19,7 @@
 <!-- </div>-->
 
 ## Сводная статистика
-<div style="display: flex; gap: 5px; align-items: flex-start;">
+<div style="display: flex; gap: 10px; align-items: flex-start;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=alexkozlovvv&show_icons=true&theme=noctis_minimus&border_radius=8&locale=ru&hide_title=true&rank_icon=github&include_all_commits=true&random=123"
