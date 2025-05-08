@@ -20,19 +20,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/> 
-  </a> &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/> 
-  </a> &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/> 
-  </a> &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/> 
-  </a> &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/> 
-  </a> &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/> 
-  </a> &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="./assets/arm.svg" alt="ARM" width="40" height="40" style="max-width: 100%;"/> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/></a> &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/></a> &nbsp;
+  <a href="https://cmake.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/></a> &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/></a> &nbsp;
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/></a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"/></a> &nbsp;
+  <a href="https://www.arm.com/" target="_blank"> 
+    <img src="./assets/arm.svg" alt="ARM" width="40" height="40" style="max-width: 100%;"/> 
   </a>
 </p>
           
