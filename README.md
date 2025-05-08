@@ -35,9 +35,7 @@
   <a href="https://www.arm.com/" target="_blank"> 
     <img src="./assets/arm.svg" alt="ARM" width="40" height="40" style="max-width: 100%;"/> 
   </a>
-</p>
-          
-          
+</p>          
           
 ## Сводная статистика
 <div style="display: flex; gap: 10px; align-items: flex-start;">
